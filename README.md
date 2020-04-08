@@ -1,4 +1,4 @@
 # hello-world
-first task for team
-let`s  learn javascript
-i hope we all doning great on this
+first task for team;
+learning how git and github work;
+this repository is a demo for testing how git and github work;
