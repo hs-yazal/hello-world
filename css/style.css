@@ -84,18 +84,5 @@ h1{
 .services{
     background-color: #fafafa;
 }
-.icon{
-    color: #f25454 ;
-    position: relative;
-    float: left;
-    display: block; 
-}
 
-.service:hover h3{
-    color: #f25454;
-}
-.reviews img{
-
-    border-radius: 50%;
-}
 
