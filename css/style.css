@@ -1,6 +1,23 @@
 body{
     /* font-family: segoe ui light ,"Open Sans", sans-serif ,"Poppins",; */
 }
+.home .test{
+    
+    height: 100vh;
+    background-image: url(../images/header-bg.jpg);
+    background-size: cover;
+    background-position: center center;
+}
+.navbar-dark .navbar-nav .nav-link{
+    color:#fff;
+}
+.caption{
+     font-size: 1.5rem;
+}
+.caption h1{
+font-size: 4rem;
+font-weight: bold;
+}
 .graph{
     font-size: 1.2rem;
     font-family: "Open Sans", sans-serif  ;
